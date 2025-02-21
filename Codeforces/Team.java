@@ -1,3 +1,4 @@
+package Codeforces;
 /*
  * url: https://vjudge.net/solution/58483538/EdgA3Q9ARRMvnTANAEVU
  * date: 19 - 02 - 2025

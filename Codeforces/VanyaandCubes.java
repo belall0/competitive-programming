@@ -1,9 +1,10 @@
+package Codeforces;
 /*
  * url: https://vjudge.net/solution/58484717/pQr8ILmKrCCrkhAx0TsE
  * date: 19 - 02 - 2025
- * category: 
- * complexity: 
- * appproach:
+ * category: implementation
+ * complexity: o(n)
+ * appproach: we can calculate the sum of cubes of n levels and then we can subtract the sum of cubes of n levels from n
  */
 
 import java.util.Scanner;

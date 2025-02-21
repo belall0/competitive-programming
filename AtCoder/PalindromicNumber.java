@@ -1,3 +1,4 @@
+package AtCoder;
 /*
  * url: https://vjudge.net/solution/58423650/PUhZOEnt2a3ygjpSdYOp
  * date: 17 - 02 - 2025
